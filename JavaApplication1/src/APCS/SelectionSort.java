@@ -9,7 +9,7 @@ package APCS;
  *
  * @author maruiling
  */
-public class SelectionSort {
+public class SelectionSort { 
     
     public static void selectSort(int[]a)
 {
