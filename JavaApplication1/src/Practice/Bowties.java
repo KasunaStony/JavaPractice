@@ -18,6 +18,8 @@ import java.util.StringTokenizer;
 
 public class Bowties {
     
+    
+    
     public static void main(String args[]) throws IOException {
         
         BufferedReader reader = new BufferedReader(new FileReader("bowties.14.in"));
@@ -47,10 +49,8 @@ public class Bowties {
                 if(x[i] == x[j] && y[j] > y[i])t++;
                 if(x[i] == x[j] && y[j] < y[i])d++;
                 if(y[i] == y[j] && x[j] < x[i])l++;
-                if(y[i] == y[j] && x[j] > x[i]){
-                    //System.out.println(x[j]);
-                    r++;
-                }
+                if(y[i] == y[j] && x[j] > x[i])r++;
+                
                 
             }
           //  System.out.println(t + " " + d + " " + l + " " + r);
