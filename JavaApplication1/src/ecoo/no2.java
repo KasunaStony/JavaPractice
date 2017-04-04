@@ -45,7 +45,7 @@ public class no2 {
         }
         
        
-        reader.mark(100);
+        reader.mark(10000000);
         int e = 0;
         boolean c = false;
         wai: for(int i = 0; i < 5; i++){
