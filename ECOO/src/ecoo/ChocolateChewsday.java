@@ -17,7 +17,7 @@ public class ChocolateChewsday {
     public static void main(String args[]) throws IOException {
 
         BufferedReader reader = new BufferedReader(new FileReader("DATA21.txt"));
-
+               
         hai:
         for (int i = 0; i < 10; i++) {
 
