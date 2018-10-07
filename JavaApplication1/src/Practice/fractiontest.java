@@ -3,28 +3,16 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+package Practice;
 
 /**
  *
  * @author maruiling
  */
-import java.util.*;
-
-public class Main {
-    
-    
+public class fractiontest {
     
     public static void main(String args[]){
-        
-        if(Math.random() < 0.5)
-            System.out.println("Y");
-        else
-            System.out.println("N");
-        
-        System.out.println((int)(Math.random() * 200));
-        
-        
-        
+        System.out.println(7.0/8 == 49.0/56);
     }
     
 }
