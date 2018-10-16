@@ -1,24 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
-    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
-    </open-files>
->>>>>>> Stashed changes
-=======
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/Users/maruiling/NetBeansProjects/JavaApplication1/src/Practice/NewJPanel.java</file>
-            <file>file:/Users/maruiling/NetBeansProjects/JavaApplication1/src/Practice/Solution.java</file>
-            <file>file:/Users/maruiling/NetBeansProjects/JavaApplication1/src/Practice/Main.java</file>
-            <file>file:/Users/maruiling/NetBeansProjects/JavaApplication1/src/Practice/Equals.java</file>
-            <file>file:/Users/maruiling/NetBeansProjects/JavaApplication1/src/Practice/Name.java</file>
-            <file>file:/Users/maruiling/NetBeansProjects/JavaApplication1/src/Practice/NewClass2.java</file>
+            <file>file:/Users/maruiling/NetBeansProjects/JavaApplication1/src/Practice/Bowties.java</file>
+            <file>file:/Users/maruiling/NetBeansProjects/JavaApplication1/src/Practice/BufferedReaderTest.java</file>
+            <file>file:/Users/maruiling/NetBeansProjects/JavaApplication1/src/APCS/ArrayListDemo.java</file>
             <file>file:/Users/maruiling/NetBeansProjects/JavaApplication1/src/Practice/Decimal.java</file>
         </group>
     </open-files>
->>>>>>> origin/master
 </project-private>
