@@ -20,6 +20,11 @@ import java.util.Arrays;
  */
 public class milk2 {
     
+    public static boolean ifOverLap(int cTail, int nBegin){
+        
+        return cTail > nBegin;
+    }
+    
     public static void main(String args[]) throws FileNotFoundException, IOException{
         
         BufferedReader reader = new BufferedReader(new FileReader("milk2.in"));
@@ -55,11 +60,14 @@ public class milk2 {
         
         for(int i = 1; i < n; i++){
             
-            if(!(tail > data[i][0] && tail > data[i][1])){
-                if((tail - head) > longest){
-                    longest = tail - head;
-                }
+            if(ifOverLap(tail, data[i][0])){
+                tail = data[i][1];
+            }else{
+                if((tail - head) > longest) longest = tail - head;
+                head = data[i][0];
+                tail = data[i][1];
             }
+            
         }
         
         System.out.println(longest);
