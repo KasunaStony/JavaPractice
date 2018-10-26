@@ -1,3 +1,5 @@
+package USACOPractice;
+
 /*
 ID: KasunaStony
 LANG: JAVA

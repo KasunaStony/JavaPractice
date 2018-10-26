@@ -14,7 +14,7 @@ public class hiuwen {
     
     public static void main(String args[]){
         
-        String str = "ajfi";
+        String str = "aaa";
         
         boolean c = true;
         
