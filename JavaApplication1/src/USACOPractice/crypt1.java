@@ -1,3 +1,5 @@
+package USACOPractice;
+
 /*
 ID: maruili1
 LANG: JAVA
